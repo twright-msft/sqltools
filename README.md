@@ -1,1 +1,1 @@
-# sqltools
+This is a repository of some SQL Server and other DB engine tools.  Feel free to use, fork and contribute.
